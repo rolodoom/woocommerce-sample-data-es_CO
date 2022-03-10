@@ -1,2 +1,5 @@
-# WooCommerce Sample Data es_CO
-Sample data for WooCommerce on Spanish and Colombia as Localization
+# WooCommerce Sample Data MultiLanguage
+Sample data for WooCommerce on Multiple Languages
+* Spanish
+* Spanish (Colombia)
+* English (US)
